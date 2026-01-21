@@ -22,16 +22,16 @@ A neural network is a machine learning model inspired by the human brain. It con
 In this project, the neural network learns patterns in pixel values that correspond to handwritten digits.
 
 # What I did:
-*Loaded the MNIST dataset using TensorFlow
-*Normalized pixel values to improve training performance
-*Built a neural network using Keras layers
-*Compiled the model by defining:
-  *Optimizer (how the model updates weights)
-  *Loss function (how prediction errors are measured)
-  *Accuracy metric
-*Trained the model using TensorFlow’s built-in training loop
-*Evaluated performance on unseen test data
-*Visualized predictions to confirm correct digit classification
+* Loaded the MNIST dataset using TensorFlow
+* Normalized pixel values to improve training performance
+* Built a neural network using Keras layers
+* Compiled the model by defining:
+  * Optimizer (how the model updates weights)
+  * Loss function (how prediction errors are measured)
+  * Accuracy metric
+* Trained the model using TensorFlow’s built-in training loop
+* Evaluated performance on unseen test data
+* Visualized predictions to confirm correct digit classification
 
 # Training Loop
 
