@@ -51,7 +51,7 @@ Achieved ~ 97–98% test accuracy with correct predictions verified through visu
 
 Below is an example of the model’s predictions on unseen test images:
 
-![Sample Predictions](images/sample_predictions.png)
+![Sample Predictions](images/sample_predictions.png.png)
 
 
 Each image is a 28×28 grayscale handwritten digit from the MNIST test set.  
