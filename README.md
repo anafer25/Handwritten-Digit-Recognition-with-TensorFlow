@@ -45,7 +45,17 @@ During training:
 # Results
 
 Test accuracy of approximately 97–98% using a simple dense neural network
-Correct predictions visualized for sample handwritten digits
+Achieved ~ 97–98% test accuracy with correct predictions verified through visual inspection of unseen test samples.
+
+### Sample Predictions
+
+Below is an example of the model’s predictions on unseen test images:
+
+
+Each image is a 28×28 grayscale handwritten digit from the MNIST test set.  
+The label above each image shows the digit predicted by the trained model.
+
+The visualization confirms that the neural network correctly identifies different digit shapes despite variations in handwriting style.
 
 # Tools & Technologies
 
